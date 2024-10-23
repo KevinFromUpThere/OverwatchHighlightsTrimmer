@@ -1,3 +1,7 @@
+Here’s the updated `README.md` with the repository link:
+
+---
+
 # **Overwatch Highlights Trimmer 🕹️**
 
 This repository contains a PowerShell script that automates the process of cropping and merging Overwatch highlight videos using `FFmpeg`. The script removes the intro and ending from each highlight and combines all the cropped clips into a single video.
@@ -20,8 +24,8 @@ This repository contains a PowerShell script that automates the process of cropp
 
 1. **Clone the repository** and navigate into the folder:
    ```bash
-   git clone <repo-url>
-   cd <repo-folder>
+   git clone https://github.com/KevinFromUpThere/OverwatchHighlightsTrimmer.git
+   cd OverwatchHighlightsTrimmer
    ```
 
 2. **Place your Overwatch highlight videos** (`.mp4` format) in the same directory as the script.
@@ -75,11 +79,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Contributions, issues, and feature requests are welcome! Please open an issue or submit a pull request.
 
 ---
-
-## **Author**
-
-Charlotte Archibald
-
----
-
-This version reflects the new project title! Let me know if anything else needs to be adjusted.
